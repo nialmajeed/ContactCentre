@@ -1,0 +1,443 @@
+[
+    {
+      "CourseName": {
+        "S": "Art History"
+      },
+      "StartDate": {
+        "S": "01-09-2025"
+      }
+    },
+    {
+      "CourseName": {
+        "S": "Archaeology"
+      },
+      "StartDate": {
+        "S": "01-09-2025"
+      }
+    },
+    {
+      "CourseName": {
+        "S": "Classics"
+      },
+      "StartDate": {
+        "S": "01-09-2025"
+      }
+    },
+    {
+      "CourseName": {
+        "S": "English Literature"
+      },
+      "StartDate": {
+        "S": "01-09-2025"
+      }
+    },
+    {
+      "CourseName": {
+        "S": "Creative Writing"
+      },
+      "StartDate": {
+        "S": "01-09-2025"
+      }
+    },
+    {
+      "CourseName": {
+        "S": "Drama and Theatre Studies"
+      },
+      "StartDate": {
+        "S": "01-09-2025"
+      }
+    },
+    
+    {
+      "CourseName": {
+        "S": "Film Studies"
+      },
+      "StartDate": {
+        "S": "01-09-2025"
+      }
+    },
+    {
+      "CourseName": {
+        "S": "History"
+      },
+      "StartDate": {
+        "S": "01-09-2025"
+      }
+    },
+    {
+      "CourseName": {
+        "S": "Modern Languages"
+      },
+      "StartDate": {
+        "S": "01-09-2025"
+      }
+    },
+    {
+      "CourseName": {
+        "S": "Music"
+      },
+      "StartDate": {
+        "S": "01-09-2025"
+      }
+    },
+    {
+      "CourseName": {
+        "S": "Philosophy"
+      },
+      "StartDate": {
+        "S": "01-09-2025"
+      }
+    },
+    {
+      "CourseName": {
+        "S": "Theology and Religious Studies"
+      },
+      "StartDate": {
+        "S": "01-09-2025"
+      }
+    },
+    {
+      "CourseName": {
+        "S": "Accounting and Finance"
+      },
+      "StartDate": {
+        "S": "01-09-2025"
+      }
+    },
+    {
+      "CourseName": {
+        "S": "Business Administration (General)"
+      },
+      "StartDate": {
+        "S": "01-09-2025"
+      }
+    },
+    {
+      "CourseName": {
+        "S": "Business Management"
+      },
+      "StartDate": {
+        "S": "01-09-2025"
+      }
+    },
+    {
+      "CourseName": {
+        "S": "Economics"
+      },
+      "StartDate": {
+        "S": "01-09-2025"
+      }
+    },
+    {
+      "CourseName": {
+        "S": "Human Resource Management (HRM)"
+      },
+      "StartDate": {
+        "S": "01-09-2025"
+      }
+    },
+    {
+      "CourseName": {
+        "S": "International Business"
+      },
+      "StartDate": {
+        "S": "01-09-2025"
+      }
+    },
+    {
+      "CourseName": {
+        "S": "Marketing"
+      },
+      "StartDate": {
+        "S": "01-09-2025"
+      }
+    },
+    {
+      "CourseName": {
+        "S": "Political Science"
+      },
+      "StartDate": {
+        "S": "01-09-2025"
+      }
+    },
+    {
+      "CourseName": {
+        "S": "Psychology"
+      },
+      "StartDate": {
+        "S": "01-09-2025"
+      }
+    },
+    {
+      "CourseName": {
+        "S": "Sociology"
+      },
+      "StartDate": {
+        "S": "01-09-2025"
+      }
+    },
+    {
+      "CourseName": {
+        "S": "Social Work"
+      },
+      "StartDate": {
+        "S": "01-09-2025"
+      }
+    },
+    {
+      "CourseName": {
+        "S": "Aerospace Engineering"
+      },
+      "StartDate": {
+        "S": "01-09-2025"
+      }
+    },
+    {
+      "CourseName": {
+        "S": "Biochemistry"
+      },
+      "StartDate": {
+        "S": "01-09-2025"
+      }
+    },
+    {
+      "CourseName": {
+        "S": "Biology"
+      },
+      "StartDate": {
+        "S": "01-09-2025"
+      }
+    },
+    {
+      "CourseName": {
+        "S": "Biomedical Science"
+      },
+      "StartDate": {
+        "S": "01-09-2025"
+      }
+    },
+    {
+      "CourseName": {
+        "S": "Chemical Engineering"
+      },
+      "StartDate": {
+        "S": "01-09-2025"
+      }
+    },
+    {
+      "CourseName": {
+        "S": "Chemistry"
+      },
+      "StartDate": {
+        "S": "01-09-2025"
+      }
+    },
+    {
+      "CourseName": {
+        "S": "Civil Engineering"
+      },
+      "StartDate": {
+        "S": "01-09-2025"
+      }
+    },
+    {
+      "CourseName": {
+        "S": "Computer Science"
+      },
+      "StartDate": {
+        "S": "01-09-2025"
+      }
+    },
+    {
+      "CourseName": {
+        "S": "Electrical Engineering"
+      },
+      "StartDate": {
+        "S": "01-09-2025"
+      }
+    },
+    {
+      "CourseName": {
+        "S": "Engineering (General)"
+      },
+      "StartDate": {
+        "S": "01-09-2025"
+      }
+    },
+    {
+      "CourseName": {
+        "S": "Environmental Science"
+      },
+      "StartDate": {
+        "S": "01-09-2025"
+      }
+    },
+    {
+      "CourseName": {
+        "S": "Geography"
+      },
+      "StartDate": {
+        "S": "01-09-2025"
+      }
+    },
+    {
+      "CourseName": {
+        "S": "Geology"
+      },
+      "StartDate": {
+        "S": "01-09-2025"
+      }
+    },
+    {
+      "CourseName": {
+        "S": "Mathematics"
+      },
+      "StartDate": {
+        "S": "01-09-2025"
+      }
+    },
+    {
+      "CourseName": {
+        "S": "Mechanical Engineering"
+      },
+      "StartDate": {
+        "S": "01-09-2025"
+      }
+    },
+    {
+      "CourseName": {
+        "S": "Medicine"
+      },
+      "StartDate": {
+        "S": "01-09-2025"
+      }
+    },
+    {
+      "CourseName": {
+        "S": "Nursing"
+      },
+      "StartDate": {
+        "S": "01-09-2025"
+      }
+    },
+    {
+      "CourseName": {
+        "S": "Pharmacy"
+      },
+      "StartDate": {
+        "S": "01-09-2025"
+      }
+    },
+    {
+      "CourseName": {
+        "S": "Physics"
+      },
+      "StartDate": {
+        "S": "01-09-2025"
+      }
+    },
+    {
+      "CourseName": {
+        "S": "Software Engineering"
+      },
+      "StartDate": {
+        "S": "01-09-2025"
+      }
+    },
+    {
+      "CourseName": {
+        "S": "Liberal Arts"
+      },
+      "StartDate": {
+        "S": "01-09-2025"
+      }
+    },
+    {
+      "CourseName": {
+        "S": "International Relations"
+      },
+      "StartDate": {
+        "S": "01-09-2025"
+      }
+    },
+    {
+      "CourseName": {
+        "S": "Global Studies"
+      },
+      "StartDate": {
+        "S": "01-09-2025"
+      }
+    },
+    {
+      "CourseName": {
+        "S": "Environmental Studies"
+      },
+      "StartDate": {
+        "S": "01-09-2025"
+      }
+    },
+    {
+      "CourseName": {
+        "S": "Media Studies"
+      },
+      "StartDate": {
+        "S": "01-09-2025"
+      }
+    },
+    {
+      "CourseName": {
+        "S": "Cultural Studies"
+      },
+      "StartDate": {
+        "S": "01-09-2025"
+      }
+    },
+    {
+      "CourseName": {
+        "S": "Law"
+      },
+      "StartDate": {
+        "S": "01-09-2025"
+      }
+    },
+    {
+      "CourseName": {
+        "S": "Education"
+      },
+      "StartDate": {
+        "S": "01-09-2025"
+      }
+    },
+    {
+      "CourseName": {
+        "S": "Journalism"
+      },
+      "StartDate": {
+        "S": "01-09-2025"
+      }
+    },
+    {
+      "CourseName": {
+        "S": "Architecture"
+      },
+      "StartDate": {
+        "S": "01-09-2025"
+      }
+    },
+    {
+      "CourseName": {
+        "S": "Graphic Design"
+      },
+      "StartDate": {
+        "S": "01-09-2025"
+      }
+    },
+    {
+      "CourseName": {
+        "S": "Product Design"
+      },
+      "StartDate": {
+        "S": "01-09-2025"
+      }
+    }
+    ]
